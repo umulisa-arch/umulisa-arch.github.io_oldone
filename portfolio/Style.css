@@ -1,0 +1,142 @@
+
+body {
+    
+    margin: 5px;
+    margin-left: 20px;
+    padding: 20px;
+    color: beige;
+    /*background-image: "D:\portfolio\basketall.jpg";*/
+    background-color: rgb(33, 32, 37);
+
+}
+header button{
+    color: rgb(22, 22, 97);
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(30, 173, 30);
+}
+header button:hover{
+    color: whitesmoke;
+	background: rgb(121, 209, 136);
+}
+#p1{
+    text-align: center;
+}
+.homepage{
+    padding: 20px;
+    text-align: left;
+    margin-top: 2px;
+    margin-right: 650px;
+    margin-left: 180px;
+    border: 1px solid rgb(30, 29, 36);;
+    background-color: rgb(6, 3, 26);
+    /*border: 1px solid grey;
+    background-color: rgb(53, 39, 41);*/  
+}
+#home{
+    background-color: rgb(209, 181, 181);
+    border-radius: 20px;
+    
+
+}
+.aboutme{
+    text-align: center;
+}
+
+#service{
+    text-align: center;
+    
+}
+.image1{
+    border-radius: 100%;
+    margin-left: 590px;
+    margin-top: -500px;
+    margin-bottom: 50px;
+    
+}
+#head2{
+    text-align: center;
+}
+#links{
+/*text-align: center;*/
+padding: 20px;
+width: 1200px;
+height: 50px;
+border-radius: 0%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(15, 15, 49); 
+
+ 
+
+  
+}
+a{
+    color: blue;
+    text-decoration: underline;
+    padding: 20px;
+}
+a:hover{
+    color: whitesmoke;
+	background: rgb(121, 209, 136);
+    background-clip: border-box;
+	padding: 10px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.contact{
+    padding: 20px;
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 650px;
+    border-radius: 30px;
+    margin-left: 190px;
+    border: 1px solid rgb(30, 29, 36);;
+    background-color: rgb(6, 3, 26);
+}
+.hours{
+    padding: 20px;
+    text-align: center;
+    margin-top: -180px;
+    margin-right: 650px;
+    border-radius: 30px;
+    margin-left: 630px;
+    margin-right: 270px;
+    border: transparent;
+    box-shadow: 0 0 20px 0px rgba(6, 199, 102, 0.1);
+	cursor: pointer;
+    border: 1px solid rgb(30, 29, 36);;
+    background-color: rgb(6, 3, 26);
+}
+
+.homepage{
+   /* border-color: blue*/
+}
+.socialmedia{
+    width: 500px;
+    height: 600px;
+}
+#footer{
+  text-align: center;
+  padding: 20px;
+  width: 1200px;
+  height: 50px;
+  border-radius: 0px;
+  background-color: rgb(15, 15, 49);  
+  margin-top: 200px;
+  margin-bottom: auto;
+}
+#heading2{
+    color: plum;
+    text-align: center;
+}
+#head3{
+    text-align: center;
+    color: aliceblue;
+}
+#pf{
+    color: blue;;
+}
