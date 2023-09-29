@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(149, 81, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+header{
+    display: none;
+}
+input{
+    background-color: rgb(201, 217, 230);
+}
+::placeholder{
+    color: rgb(133, 28, 28)
+}
+.form1{
+    flex-direction: column;
+}
+/*.form1{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+padding: 10px;
+}*/
