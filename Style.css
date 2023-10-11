@@ -24,7 +24,7 @@ header button:hover{
 }
 .homepage{
     padding: 20px;
-    text-align: left;
+    text-align: center;
     margin-top: 2px;
     margin-right: 650px;
     margin-left: 180px;
@@ -42,6 +42,14 @@ header button:hover{
 .aboutme{
     text-align: center;
 }
+.design{
+    text-align: center;
+    color: rgb(228, 153, 205);
+}
+
+/*#cv{
+    text-align: justify;
+}*/
 
 #service{
     text-align: center;
@@ -49,7 +57,7 @@ header button:hover{
 }
 .image1{
     border-radius: 100%;
-    margin-left: 590px;
+    margin-left: 620px;
     margin-top: -500px;
     margin-bottom: 50px;
     
